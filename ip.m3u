@@ -6,9 +6,6 @@ https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 #EXTINF:-1,MAHNI TV
 #EXTGRP:PEYK TV
 http://xantv.site:41480/MahniTV/video.m3u8
-#EXTINF:-1,TV 36 Music
-#EXTGRP:PEYK TV
-https://ip240.radyotelekom.com.tr:3530/stream/play.m3u8
 #EXTINF:-1,ARI MUSIC
 #EXTGRP:PEYK TV
 http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
@@ -16,9 +13,6 @@ http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
 #EXTGRP:PEYK TV
 http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
 #EXTINF:-1,Ayaz TV
-#EXTGRP:PEYK TV
-https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
-#EXTINF:-1,Ayaz TV HD
 #EXTGRP:PEYK TV
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
 #EXTINF:-1,Az Star TV
@@ -31,6 +25,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1,Azerbaijan Music
 #EXTGRP:PEYK TV
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1,Azerbaijan Music Plus
+#EXTGRP:PEYK TV
+https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
 #EXTINF:-1,Azerbaijan Music Hit
 #EXTGRP:PEYK TV
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
@@ -96,6 +93,9 @@ http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Alvin Channel
 #EXTGRP:PEYK TV
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w1251196011.m3u8
+#EXTINF:-1,TV 36
+#EXTGRP:PEYK TV
+https://ip240.radyotelekom.com.tr:3530/stream/play.m3u8
 #EXTINF:-1,FTV
 #EXTGRP:PEYK TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
