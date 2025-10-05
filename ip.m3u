@@ -1,119 +1,46 @@
 #EXTM3U
 
-#EXTINF:-1,Qafqaz TV
-#EXTGRP:PEYK TV
-http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563743&extension=m3u8
-#EXTINF:-1,EL TV 
-#EXTGRP:PEYK TV
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:1,Kanal 35
-#EXTGRP:PEYK TV
-http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Alvin Channel
-#EXTGRP:PEYK TV
-https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w1251196011.m3u8
-#EXTINF:-1,FTV
-#EXTGRP:PEYK TV
-https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
-#EXTINF:-1,LIVE TV
-#EXTGRP:PEYK TV
-https://tv.mobyservice.ru/livetv/index.m3u8
-#EXTINF:-1,Konul TV
-#EXTGRP:PEYK TV
-http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u
 #EXTINF:-1,Konul TV MUSIC
 #EXTGRP:PEYK TV
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
-#EXTINF:-1,Ayaz TV
-#EXTGRP:PEYK TV
-https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
-#EXTINF:-1,Ayaz TV HD
-#EXTGRP:PEYK TV
-https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
-#EXTINF:-1,Retro TV
-#EXTGRP:PEYK TV
-https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
-#EXTINF:-1,Sirvan TV
-#EXTGRP:PEYK TV
-https://a8.radyotelekom.com.tr:3326/stream/play.m3u8
-#EXTINF:-1,Rihat TV
-#EXTGRP:PEYK TV
-https://cdn4.yayin.com.tr/ekran85/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MAHNI TV
 #EXTGRP:PEYK TV
 http://xantv.site:41480/MahniTV/video.m3u8
-#EXTINF:-1,CTV
-#EXTGRP:PEYK TV
-http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
-#EXTINF:-1,TV 36
-#EXTGRP:PEYK TV
-http://cdn4.yayin.com.tr/tv36/video.m3u8
-#EXTINF:-1,TV 36 Cinema
-#EXTGRP:PEYK TV
-http://cdn4.yayin.com.tr/tv36cinema/video.m3u8
 #EXTINF:-1,TV 36 Music
 #EXTGRP:PEYK TV
 https://ip240.radyotelekom.com.tr:3530/stream/play.m3u8
 #EXTINF:-1,ARI MUSIC
 #EXTGRP:PEYK TV
 http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
-#EXTINF:-1,ATV CINEMA
+#EXTINF:-1,CTV
 #EXTGRP:PEYK TV
-http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2120/index.m3u8 
-#EXTINF:-1,Hind Music
+http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
+#EXTINF:-1,Ayaz TV
 #EXTGRP:PEYK TV
-https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
+https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
+#EXTINF:-1,Ayaz TV HD
+#EXTGRP:PEYK TV
+https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
+#EXTINF:-1,Az Star TV
+#EXTGRP:PEYK TV
+http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://knmusictv.com/wp-content/themes/tmbtvaz/img/tmbtv.png", KN music box
+https://cdn4.yayin.com.tr/kntv/video.m3u8
 #EXTINF:-1,Azerbaijan Music
 #EXTGRP:PEYK TV
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 #EXTINF:-1,Azerbaijan Music Hit
 #EXTGRP:PEYK TV
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
-#EXTINF:-1,Super Turk
-#EXTGRP:PEYK TV
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-#EXTINF:-1,Super Turk Max
-#EXTGRP:PEYK TV
-http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
-#EXTINF:-1,DENIZ POSTASI
-#EXTGRP:PEYK TV
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:-1,SDM TV
-#EXTGRP:PEYK TV
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SDM TV BELGESEL HD
-#EXTGRP:PEYK TV
-https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,NOW Play
-#EXTGRP:PEYK TV
-http://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Now movies horror
-#EXTGRP:PEYK TV
-https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
-#EXTINF:-1,Now Movies SC-FI
-#EXTGRP:PEYK TV
-https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
-#EXTINF:-1,Tivi Turk
-#EXTGRP:PEYK TV
-https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:1,Play TV
-#EXTGRP:PEYK TV
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1,iPlay Music
 #EXTGRP:PEYK TV
-https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
-#EXTINF:-1,iPlay Cinema
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+#EXTINF:-1,PopStar
 #EXTGRP:PEYK TV
-https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
-#EXTINF:-1,Life TV
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:1,SLOW KARADENIZ TV
 #EXTGRP:PEYK TV
-https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
-#EXTINF:-1,Az Star TV
-#EXTGRP:PEYK TV
-http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
-#EXTINF:1,CINE5 TV
-#EXTGRP:PEYK TV
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 #EXTINF:-1,KRAL POP TV
 #EXTGRP:PEYK TV
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
@@ -144,18 +71,95 @@ https://195.142.3.98/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:1,Power TV
 #EXTGRP:PEYK TV
 https://195.142.3.98/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:1,SLOW KARADENIZ TV
+#EXTINF:-1,Hind Music
 #EXTGRP:PEYK TV
-https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Qafqaz TV
+#EXTGRP:PEYK TV
+http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563743&extension=m3u8
+#EXTINF:-1,EL#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png", Kepez TV
+http://85.132.78.122:8050/dashjs/stream/index.mpd
+#EXTINF:-1,EL TV
+#EXTGRP:PEYK TV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:1,Kanal 35
+#EXTGRP:PEYK TV
+http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Alvin Channel
+#EXTGRP:PEYK TV
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w1251196011.m3u8
+#EXTINF:-1,FTV
+#EXTGRP:PEYK TV
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:-1,LIVE TV
+#EXTGRP:PEYK TV
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1,Konul TV
+#EXTGRP:PEYK TV
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u
+#EXTINF:-1,Retro TV
+#EXTGRP:PEYK TV
+https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
+#EXTINF:-1,Sirvan TV
+#EXTGRP:PEYK TV
+https://a8.radyotelekom.com.tr:3326/stream/play.m3u8
+#EXTINF:-1,Rihat TV
+#EXTGRP:PEYK TV
+https://cdn4.yayin.com.tr/ekran85/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV 36
+#EXTGRP:PEYK TV
+http://cdn4.yayin.com.tr/tv36/video.m3u8
+#EXTINF:-1,TV 36 Cinema
+#EXTGRP:PEYK TV
+http://cdn4.yayin.com.tr/tv36cinema/video.m3u8
+#EXTINF:-1,ATV CINEMA
+#EXTGRP:PEYK TV
+http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2120/index.m3u8 
+#EXTINF:-1,Super Turk
+#EXTGRP:PEYK TV
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+#EXTINF:-1,Super Turk Max
+#EXTGRP:PEYK TV
+http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+#EXTINF:-1,DENIZ POSTASI
+#EXTGRP:PEYK TV
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:-1,SDM TV
+#EXTGRP:PEYK TV
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SDM TV BELGESEL HD
+#EXTGRP:PEYK TV
+https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NOW Play
+#EXTGRP:PEYK TV
+http://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Now movies horror
+#EXTGRP:PEYK TV
+https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
+#EXTINF:-1,Now Movies SC-FI
+#EXTGRP:PEYK TV
+https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXTINF:-1,Tivi Turk
+#EXTGRP:PEYK TV
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:1,Play TV
+#EXTGRP:PEYK TV
+https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
+#EXTINF:-1,iPlay Cinema
+#EXTGRP:PEYK TV
+https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
+#EXTINF:-1,Life TV
+#EXTGRP:PEYK TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+#EXTINF:1,CINE5 TV
+#EXTGRP:PEYK TV
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:1,RIZE TURK TV
 #EXTGRP:PEYK TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:1,KANAL 53
 #EXTGRP:PEYK TV
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
-#EXTINF:-1,PopStar
-#EXTGRP:PEYK TV
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1,Tabii TV
 #EXTGRP:PEYK TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
@@ -167,9 +171,4 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89835&extension
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89839&extension=ts
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png", SINEMA AILEᵀᴿ
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89838&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKTndbFF/In-Shot-20250209-203240269.png", FTV TV
-https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
-#EXTINF:-1 tvg-logo="https://knmusictv.com/wp-content/themes/tmbtvaz/img/tmbtv.png", KN music box
-https://cdn4.yayin.com.tr/kntv/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png", Kepez TV
-http://85.132.78.122:8050/dashjs/stream/index.mpd
+
