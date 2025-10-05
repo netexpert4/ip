@@ -37,15 +37,18 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1,PopStar
 #EXTGRP:PEYK TV
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:1,BIZ MUSIC 1
+#EXTINF:1,BIZ MUSIC 720P
 #EXTGRP:PEYK TV
 https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
-#EXTINF:1,BIZ MUSIC 2
+#EXTINF:1,BIZ MUSIC 1080P
 #EXTGRP:PEYK TV
-https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
+https://fl.biztv.media/music_1080_MMAUyOJClsRrvfSkUrkrphfMdisQQF/index.m3u8
 #EXTINF:1,SLOW KARADENIZ TV
 #EXTGRP:PEYK TV
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+#EXTINF:1,KANAL 53
+#EXTGRP:PEYK TV
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1,KRAL POP TV
 #EXTGRP:PEYK TV
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
@@ -111,27 +114,12 @@ https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
 #EXTINF:-1,Sirvan TV
 #EXTGRP:PEYK TV
 https://a8.radyotelekom.com.tr:3326/stream/play.m3u8
-#EXTINF:-1,Rihat TV
-#EXTGRP:PEYK TV
-https://cdn4.yayin.com.tr/ekran85/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV 36
-#EXTGRP:PEYK TV
-http://cdn4.yayin.com.tr/tv36/video.m3u8
-#EXTINF:-1,TV 36 Cinema
-#EXTGRP:PEYK TV
-http://cdn4.yayin.com.tr/tv36cinema/video.m3u8
-#EXTINF:-1,ATV CINEMA
-#EXTGRP:PEYK TV
-http://rhsbjv7k.tvclub.xyz/iptv/48WSQK4LPTZTHL/2120/index.m3u8 
 #EXTINF:-1,Super Turk
 #EXTGRP:PEYK TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1,Super Turk Max
 #EXTGRP:PEYK TV
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
-#EXTINF:-1,DENIZ POSTASI
-#EXTGRP:PEYK TV
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:-1,SDM TV
 #EXTGRP:PEYK TV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
@@ -159,15 +147,9 @@ https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
 #EXTINF:-1,Life TV
 #EXTGRP:PEYK TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
-#EXTINF:1,CINE5 TV
-#EXTGRP:PEYK TV
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:1,RIZE TURK TV
 #EXTGRP:PEYK TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:1,KANAL 53
-#EXTGRP:PEYK TV
-https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1,Tabii TV
 #EXTGRP:PEYK TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
