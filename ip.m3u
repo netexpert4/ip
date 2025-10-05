@@ -3,15 +3,15 @@
 #EXTINF:-1,Konul TV MUSIC
 #EXTGRP:PEYK TV
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
-#EXTINF:-1,MAHNI TV
-#EXTGRP:PEYK TV
-http://xantv.site:41480/MahniTV/video.m3u8
 #EXTINF:-1,ARI MUSIC
 #EXTGRP:PEYK TV
 http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
 #EXTINF:-1,CTV
 #EXTGRP:PEYK TV
 http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
+#EXTINF:-1,MAHNI TV
+#EXTGRP:PEYK TV
+http://xantv.site:41480/MahniTV/video.m3u8
 #EXTINF:-1,Ayaz TV
 #EXTGRP:PEYK TV
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
