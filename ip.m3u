@@ -26,6 +26,8 @@ https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/
 http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://knmusictv.com/wp-content/themes/tmbtvaz/img/tmbtv.png", KN music box
 https://cdn4.yayin.com.tr/kntv/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6prVYgqM/tmbtaz-png.png", TMB TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:-1,Azerbaijan Music
 #EXTGRP:PEYK TV
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
@@ -77,7 +79,7 @@ https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Qafqaz TV
 #EXTGRP:PEYK TV
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563743&extension=m3u8
-#EXTINF:-1,EL#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png", Kepez TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png", Kepez TV
 http://85.132.78.122:8050/dashjs/stream/index.mpd
 #EXTINF:-1,EL TV
 #EXTGRP:PEYK TV
@@ -171,4 +173,5 @@ http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89835&extension
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89839&extension=ts
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png", SINEMA AILEᵀᴿ
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89838&extension=ts
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1z3WC0V7/In-Shot-20250324-074646845.png", Kinostar HD
+https://a8.radyotelekom.com.tr:3445/stream/play.m3u8
