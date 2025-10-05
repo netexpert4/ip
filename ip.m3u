@@ -40,6 +40,9 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1,PopStar
 #EXTGRP:PEYK TV
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:1,BIZ MUSIC
+#EXTGRP:PEYK TV
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
 #EXTINF:1,SLOW KARADENIZ TV
 #EXTGRP:PEYK TV
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
