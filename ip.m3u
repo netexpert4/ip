@@ -11,7 +11,7 @@ http://85.132.53.162:1935/live/eltv/playlist.m3u8
 http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Alvin Channel
 #EXTGRP:PEYK TV
-http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w1251196011.m3u8
 #EXTINF:-1,FTV
 #EXTGRP:PEYK TV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
@@ -128,22 +128,22 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 #EXTINF:1,Power Dance
 #EXTGRP:PEYK TV 
-https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+https://195.142.3.98/dance/dance.smil/playlist.m3u8
 #EXTINF:1,Power Love
 #EXTGRP:PEYK TV
-https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+https://195.142.3.98/plove/love.smil/playlist.m3u8
 #EXTINF:1,Power Turk Akustik
 #EXTGRP:PEYK TV
-https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+https://195.142.3.98/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:1,Power Turk Slow
 #EXTGRP:PEYK TV
-https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+https://195.142.3.98/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:1,Power Turk Taptaze
 #EXTGRP:PEYK TV
-https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+https://195.142.3.98/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:1,Power TV
 #EXTGRP:PEYK TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+https://195.142.3.98/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:1,SLOW KARADENIZ TV
 #EXTGRP:PEYK TV
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
@@ -156,18 +156,20 @@ https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1,PopStar
 #EXTGRP:PEYK TV
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1,2TV Sport
-#EXTGRP:PEYK TV
-http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,KINO 18+
-#EXTGRP:PEYK TV
-http://v2.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1,Tabii TV
 #EXTGRP:PEYK TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
-#EXTINF:-1,TRSPOR TV
-#EXTGRP:PEYK TV
-http://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/chunklist_w1502507195.m3u8
-#EXTINF:-1,Real Madrid TV
-#EXTGRP:PEYK TV
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QrvfpL0/In-Shot-20250516-082658023.png", TV 1
+https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
+#EXTINF:-1 tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV-GRI.png", SINEMA TVᵀᴿ
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89835&extension=ts
+#EXTINF:-1 tvg-logo="https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png", SINEMA AKSIONᵀᴿ
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89839&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png", SINEMA AILEᵀᴿ
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:BB:EE:72&stream=89838&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKTndbFF/In-Shot-20250209-203240269.png", FTV TV
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:-1 tvg-logo="https://knmusictv.com/wp-content/themes/tmbtvaz/img/tmbtv.png", KN music box
+https://cdn4.yayin.com.tr/kntv/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png", Kepez TV
+http://85.132.78.122:8050/dashjs/stream/index.mpd
