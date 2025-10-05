@@ -22,6 +22,9 @@ http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
 https://cdn4.yayin.com.tr/kntv/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6prVYgqM/tmbtaz-png.png", TMB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+#EXTINF:-1,Vostok TV
+#EXTGRP:PEYK TV
+https://proxy.canlitvplayer.com/str.yodacdn.net/tmb/mono.m3u8?token=a5e73d0efb5570ee9680c548757b61dcf3fb5416-7ba1d9b5169b71e28343a80c0c06e350-1759686442000000-1759675642000
 #EXTINF:-1,Azerbaijan Music
 #EXTGRP:PEYK TV
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
