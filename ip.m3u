@@ -49,6 +49,8 @@ https://fl.biztv.media/music_1080_MMAUyOJClsRrvfSkUrkrphfMdisQQF/index.m3u8
 #EXTINF:1,SLOW KARADENIZ TV
 #EXTGRP:PEYK TV
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+#EXTINF:1,YANSIMA MUZIK TV
+http://cdn4.yayin.com.tr/yansimamedyatv/video.m3u8
 #EXTINF:1,KANAL 53
 #EXTGRP:PEYK TV
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
@@ -58,12 +60,16 @@ https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 #EXTINF:-1,4TURK POP
 #EXTGRP:PEYK TV
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
+#EXTINF:1,Number 1 Turk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:1,Number 1 Ask
 #EXTGRP:PEYK TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 #EXTINF:1,Number 1 Damar
 #EXTGRP:PEYK TV 
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:1,Power Türk
+https://195.142.3.98/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:1,Power Dance
 #EXTGRP:PEYK TV 
 https://195.142.3.98/dance/dance.smil/playlist.m3u8
@@ -82,6 +88,8 @@ https://195.142.3.98/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:1,Power TV
 #EXTGRP:PEYK TV
 https://195.142.3.98/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:1,Milyon TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1,Hind Music
 #EXTGRP:PEYK TV
 https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
