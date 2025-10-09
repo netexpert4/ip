@@ -9,7 +9,7 @@ http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
 #EXTINF:-1,MAHNI
 http://217.64.23.20:41480/MahniTV/video.m3u8
 #EXTINF:-1,Ay
-https://ip.srv3.workers.dev/stream.m3u8
+https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
 #EXTINF:-1,Star
 http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
 #EXTINF:-1,KN
