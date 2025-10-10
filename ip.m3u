@@ -15,7 +15,7 @@ http://st.lnfo.hz.cz/azstar/azstar_1080p/playlist.m3u8
 #EXTINF:-1,KN
 https://cdn4.lnfo.hz.cz/kntv/video.m3u8
 #EXTINF:-1,TM
-http://149.255.152.199/tmbaz.m3u8?bandwidth=2096&e=1760156281&playlistlength=5&shift=0&sid=coder_40&token=2f297cec8e99f15c92e98fc62c3d090e&user=37076
+http://tm.lnfo.hz.cz/tmbaz.m3u8?bandwidth=2096&e=1760156281&playlistlength=5&shift=0&sid=coder_40&token=2f297cec8e99f15c92e98fc62c3d090e&user=37076
 #EXTINF:-1,Vk 
 https://proxy.canlitvplayer.com/str.yodacdn.net/tmb/mono.m3u8?token=a5e73d0efb5570ee9680c548757b61dcf3fb5416-7ba1d9b5169b71e28343a80c0c06e350-1759686442000000-1759675642000
 #EXTINF:-1,A Music
