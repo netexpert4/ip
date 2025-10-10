@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,K MUSIC
-https://cdn4.lnfo.hz.cz/bakixebertv/video.m3u8
+https://4.lnfo.hz.cz/bakixebertv/video.m3u8
 #EXTINF:-1,ARI
 http://ari.lnfo.hz.cz/arimusic/arimusic/playlist.m3u8
 #EXTINF:-1,C
@@ -13,19 +13,19 @@ https://ip.srv3.workers.dev/stream.m3u8
 #EXTINF:-1,Star
 http://st.lnfo.hz.cz/azstar/azstar_1080p/playlist.m3u8
 #EXTINF:-1,KN
-https://cdn4.lnfo.hz.cz/kntv/video.m3u8
+https://4.lnfo.hz.cz/kntv/video.m3u8
 #EXTINF:-1,TM
 http://tm.lnfo.hz.cz/tmbaz.m3u8?bandwidth=2096&e=1760156281&playlistlength=5&shift=0&sid=coder_40&token=2f297cec8e99f15c92e98fc62c3d090e&user=37076
 #EXTINF:-1,Vk 
 https://proxy.canlitvplayer.com/str.yodacdn.net/tmb/mono.m3u8?token=a5e73d0efb5570ee9680c548757b61dcf3fb5416-7ba1d9b5169b71e28343a80c0c06e350-1759686442000000-1759675642000
 #EXTINF:-1,A Music
-https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+https://a.lnfo.hz.cz/sinematv/sinematv/playlist.m3u8
 #EXTINF:-1,A Music Plus
-https://cdn4.lnfo.hz.cz/baltvmusic/video.m3u8
+https://4.lnfo.hz.cz/baltvmusic/video.m3u8
 #EXTINF:-1,A Music Hit
-https://cdn4.lnfo.hz.cz/musicazhit/video.m3u8
+https://4.lnfo.hz.cz/musicazhit/video.m3u8
 #EXTINF:-1,Pop
-https://p.lnfo.hz.cz/mts-3/playlist.m3u8
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:1,B MUSIC 720P
 https://b.lnfo.hz.cz/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
 #EXTINF:1,B MUSIC 1080P
@@ -33,7 +33,7 @@ https://fl.biztv.media/music_1080_MMAUyOJClsRrvfSkUrkrphfMdisQQF/index.m3u8
 #EXTINF:1,SLOW
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 #EXTINF:1,Y MUSIC
-http://cdn4.lnfo.hz.cz/yansimamedyatv/video.m3u8
+http://4.lnfo.hz.cz/yansimamedyatv/video.m3u8
 #EXTINF:1,53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1,K POP
