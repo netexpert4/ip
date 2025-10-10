@@ -1,21 +1,21 @@
 #EXTM3U
 
 #EXTINF:-1,K MUSIC
-https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+https://kk.srv3.workers.dev/1.m3u8
 #EXTINF:-1,ARI
-http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
+http://ari.lnfo.hz.cz/arimusic/arimusic/playlist.m3u8
 #EXTINF:-1,C
-http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
+http://c.lnfo.hz.cz/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
 #EXTINF:-1,MAHNI
-http://217.64.23.20:41480/MahniTV/video.m3u8
+https://mahni.srv3.workers.dev/1.m3u8
 #EXTINF:-1,Ay
 https://ip.srv3.workers.dev/stream.m3u8
 #EXTINF:-1,Star
-http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
+http://st.lnfo.hz.cz/azstar/azstar_1080p/playlist.m3u8
 #EXTINF:-1,KN
-https://cdn4.yayin.com.tr/kntv/video.m3u8
+https://kn.srv3.workers.dev/1.m3u8
 #EXTINF:-1,TM
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+https://i.srv3.workers.dev/8.m3u8
 #EXTINF:-1,Vk 
 https://i.srv3.workers.dev/9.m3u8
 #EXTINF:-1,A Music
