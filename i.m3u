@@ -1,45 +1,45 @@
 #EXTM3U
 
 #EXTINF:-1,K MUSIC
-https://kk.srv3.workers.dev/1.m3u8
+https://t.srv3.workers.dev/1.m3u8
 #EXTINF:-1,ARI
-http://ari.lnfo.hz.cz/arimusic/arimusic/playlist.m3u8
+https://t.srv3.workers.dev/2.m3u8
 #EXTINF:-1,C
-http://c.lnfo.hz.cz/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
+https://t.srv3.workers.dev/3.m3u8
 #EXTINF:-1,MAHNI
-https://mahni.srv3.workers.dev/1.m3u8
+https://t.srv3.workers.dev/4.m3u8
 #EXTINF:-1,Ay
-https://ip.srv3.workers.dev/stream.m3u8
+https://t.srv3.workers.dev/5.m3u8
 #EXTINF:-1,Star
-http://st.lnfo.hz.cz/azstar/azstar_1080p/playlist.m3u8
+https://t.srv3.workers.dev/6.m3u8
 #EXTINF:-1,KN
-https://kn.srv3.workers.dev/1.m3u8
+https://t.srv3.workers.dev/7.m3u8
 #EXTINF:-1,TM
-https://i.srv3.workers.dev/8.m3u8
+https://t.srv3.workers.dev/8.m3u8
 #EXTINF:-1,Vk 
-https://i.srv3.workers.dev/9.m3u8
+https://t.srv3.workers.dev/9.m3u8
 #EXTINF:-1,A Music
-https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+https://t.srv3.workers.dev/10.m3u8
 #EXTINF:-1,A Music Plus
-https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
+https://t.srv3.workers.dev/11.m3u8
 #EXTINF:-1,A Music Hit
-https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+https://t.srv3.workers.dev/12.m3u8
 #EXTINF:-1,Pop
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+https://t.srv3.workers.dev/13.m3u8
 #EXTINF:1,B MUSIC 720P
-https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
+https://t.srv3.workers.dev/14.m3u8
 #EXTINF:1,B MUSIC 1080P
-https://fl.biztv.media/music_1080_MMAUyOJClsRrvfSkUrkrphfMdisQQF/index.m3u8
+https://t.srv3.workers.dev/15.m3u8
 #EXTINF:1,SLOW
-https://i.srv3.workers.dev/16.m3u8
+https://t.srv3.workers.dev/16.m3u8
 #EXTINF:1,Y MUSIC
-http://cdn4.yayin.com.tr/yansimamedyatv/video.m3u8
+https://t.srv3.workers.dev/17.m3u8
 #EXTINF:1,53
-https://i.srv3.workers.dev/18.m3u8
+https://t.srv3.workers.dev/18.m3u8
 #EXTINF:-1,K POP
-https://i.srv3.workers.dev/19.m3u8
+https://t.srv3.workers.dev/19.m3u8
 #EXTINF:-1,4 POP
-https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
+https://t.srv3.workers.dev/20.m3u8
 #EXTINF:1,N 1 T
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:1,N 1 A
